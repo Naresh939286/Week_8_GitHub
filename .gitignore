@@ -1,5 +1,9 @@
 # Ignore all .log files
 *.log
 
+<<<<<<< HEAD
 # Ignore log folder
+=======
+# Ignore the log folder
+>>>>>>> e51a8a00a155aa3c0782dd836e3e67bdc15f69a1
 log/
